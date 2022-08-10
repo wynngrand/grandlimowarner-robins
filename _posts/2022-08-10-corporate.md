@@ -4,7 +4,7 @@ navname: Corporate
 permalink: "/corporate.html"
 title: Warner Robins Corporate Car Services.
 description: Corporate Transportation - Best Car Service and rent for corporation
-  , bussiness, and personal on warner robins.
+  & bussiness on warner robins.
 cover: "/assets/img/macon Limo Luxury Car.webp"
 
 ---
