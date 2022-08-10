@@ -2,9 +2,9 @@
 layout: post
 navname: Chauffeur
 permalink: "/chauffeur.html"
-title: Warner Robins Chauffeur
-description: Chauffeur Service  | Car Service for corporate , bussiness, and personal
-  on warner robins.
+title: Warner Robins Chauffeur Service
+description: Chauffeur Service  | Luxury Black Car Service for Corporate , Business,
+  or Personal in Warner Robins. GA
 cover: "/assets/img/macon Sight Seeing Service.webp"
 
 ---
