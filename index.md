@@ -1,6 +1,6 @@
 ---
 title: Warner Robins Limo Service | Grand Limousine
-description: Grand Limousine offers the best Warner Robins Limo, Party Buses, and
+description: Grand Limousine offers The Best Warner Robins Limo, Party Buses, and
   Luxury Black Car service with 100% Certified Chauffeurs.
 cover: "/assets/img/macon suvs.webp"
 layout: home
