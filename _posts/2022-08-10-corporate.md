@@ -2,7 +2,7 @@
 layout: post
 navname: Corporate
 permalink: "/corporate.html"
-title: Warner Robins Corporate Luxury Black Car Services
+title: Warner Robins Corporate Luxury Black Car Service
 description: Corporate Transportation - Best Luxury Black Car Service Rental for Corporate
   Business in Middle GA
 cover: "/assets/img/macon Limo Luxury Car.webp"
