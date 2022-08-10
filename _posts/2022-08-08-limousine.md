@@ -3,12 +3,12 @@ layout: post
 navname: Limousine
 permalink: "/limousine.html"
 title: Warner Robins Limousine
-description: Warner Robins Limo is the most luxurious and affordable limousine company
+description: Warner Robins Limo is the most luxurious and quality Limousine company
   in all of Georgia.
 cover: "/assets/img/macon luxury sedan car.webp"
 
 ---
-[**Warner Robins Limo**](https://www.grandlimowarner-robins.com/limousine.html "Warner robins limousine limo") is the most luxurious and affordable limousine company in all of Georgia. Our vehicles always look their best when they arrive at your destination, which makes us proud to be called one of America's finest luxury transportation companies!
+[**Warner Robins Limo**](https://www.grandlimowarner-robins.com/limousine.html "Warner robins limousine limo") is the most luxurious and quality limousine company in all of Georgia. Our vehicles always look their best when they arrive at your destination, which makes us proud to be called one of America's finest luxury transportation companies!
 
 A professional team with years upon years of experience will ensure that you have an unforgettable trip ahead.
 
