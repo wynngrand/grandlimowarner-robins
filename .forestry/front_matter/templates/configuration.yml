@@ -198,3 +198,5 @@ fields:
 - type: list
   name: plugins
   label: plugins
+pages:
+- _config.yml
