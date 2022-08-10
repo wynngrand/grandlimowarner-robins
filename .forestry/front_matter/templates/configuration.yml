@@ -1,0 +1,200 @@
+---
+label: Configuration
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: name
+  label: name
+- type: text
+  name: description
+  label: description
+- type: file
+  name: cover
+  label: cover
+- type: text
+  name: url
+  label: url
+- type: field_group
+  name: badge
+  label: badge
+  fields:
+  - type: text
+    name: title1
+    label: title1
+  - type: text
+    name: text1
+    label: text1
+  - type: text
+    name: title2
+    label: title2
+  - type: text
+    name: text2
+    label: text2
+  - type: text
+    name: title3
+    label: title3
+  - type: text
+    name: text3
+    label: text3
+  - type: text
+    name: title4
+    label: title4
+  - type: text
+    name: text4
+    label: text4
+  - type: text
+    name: title5
+    label: title5
+  - type: text
+    name: text5
+    label: text5
+  - type: text
+    name: title6
+    label: title6
+  - type: text
+    name: text6
+    label: text6
+  - type: text
+    name: title7
+    label: title7
+  - type: text
+    name: text7
+    label: text7
+  - type: text
+    name: title8
+    label: title8
+  - type: text
+    name: text8
+    label: text8
+  - type: text
+    name: title9
+    label: title9
+  - type: text
+    name: text9
+    label: text9
+- type: field_group
+  name: fleet
+  label: fleet
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: car1
+    label: car1
+  - type: file
+    name: carimage1
+    label: carimage1
+  - type: text
+    name: cartext1
+    label: cartext1
+  - type: text
+    name: carprice1
+    label: carprice1
+  - type: text
+    name: car2
+    label: car2
+  - type: file
+    name: carimage2
+    label: carimage2
+  - type: text
+    name: cartext2
+    label: cartext2
+  - type: text
+    name: carprice2
+    label: carprice2
+  - type: text
+    name: car3
+    label: car3
+  - type: file
+    name: carimage3
+    label: carimage3
+  - type: text
+    name: cartext3
+    label: cartext3
+  - type: text
+    name: carprice3
+    label: carprice3
+  - type: text
+    name: car4
+    label: car4
+  - type: file
+    name: carimage4
+    label: carimage4
+  - type: text
+    name: cartext4
+    label: cartext4
+  - type: text
+    name: carprice4
+    label: carprice4
+  - type: text
+    name: carbtn
+    label: carbtn
+- type: text
+  name: bookurl
+  label: bookurl
+- type: text
+  name: serviceurl
+  label: serviceurl
+- type: field_group
+  name: contact
+  label: contact
+  fields:
+  - type: text
+    name: address
+    label: address
+  - type: text
+    name: phone
+    label: phone
+  - type: number
+    name: phoneurl
+    label: phoneurl
+  - type: text
+    name: email
+    label: email
+- type: field_group
+  name: social
+  label: social
+  fields:
+  - type: text
+    name: facebook
+    label: facebook
+  - type: text
+    name: instagram
+    label: instagram
+  - type: text
+    name: twitter
+    label: twitter
+  - type: text
+    name: youtube
+    label: youtube
+- type: file
+  name: nlalogo
+  label: nlalogo
+- type: field_group_list
+  name: defaults
+  label: defaults
+  fields:
+  - type: field_group
+    name: scope
+    label: scope
+    fields:
+    - type: text
+      name: path
+      label: path
+    - type: text
+      name: type
+      label: type
+  - type: field_group
+    name: values
+    label: values
+    fields:
+    - type: text
+      name: layout
+      label: layout
+- type: list
+  name: plugins
+  label: plugins
