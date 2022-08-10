@@ -1,7 +1,7 @@
 ---
 title: Warner Robins Limo Service | Grand Limousine
-description: Grand Limousine offers the best Miami limo, party bus, and car services!
-  100% Certified Chauffeurs.
+description: Grand Limousine offers the best Warner Robins Limo, Party Buses, and
+  Luxury Black Car service with 100% Certified Chauffeurs.
 cover: "/assets/img/macon suvs.webp"
 layout: home
 
