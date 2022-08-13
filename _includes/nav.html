@@ -23,7 +23,6 @@
     </button>
     <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
       <div class="navbar-nav p-1">
-        <a class="nav-link" href="/">Home</a>
         {% for post in site.posts %}
       <a class="nav-link " href="{{post.url}}">{{post.navname}}</a>
       {% endfor %}
