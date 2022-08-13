@@ -2,7 +2,7 @@
 layout: post
 navname: Limousine
 permalink: "/limousine.html"
-title: Warner Robins Limousine
+title: Warner Robins Limousine | Grand Limousine
 description: Warner Robins Limo is the most luxurious and quality Limousine company
   in all of Georgia.
 cover: "/assets/img/macon luxury sedan car.webp"
