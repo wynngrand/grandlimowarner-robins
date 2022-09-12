@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Warner Robins Car Service | Grand Limousine
-description: Warner Robins Car Service offers Trusted On-Time travel 7 days a week.
-  100% Certified Chauffeurs
+description: Warner Robins Car Service Airport Limousine | Accredited Limo & Luxury
+  Car in Warner Robins, Ga. Best Limousine Rates Starting at $129.00 Book Instantly
+  online.
 cover: "/assets/img/macon luxury sedan car.webp"
 permalink: "/services.html"
 
