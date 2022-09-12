@@ -14,4 +14,4 @@ Warner Robins Limo understands that getting around Atlanta can be challenging. T
 
 If you're looking for high-quality limo service, we are your best choice for travel service. We offer a wide selection of black cars, perfect for any occasion. Whether you need a sedan for business travel or a convertible for a fun night out, we have you covered. We also have vans available for larger groups. Our Chauffeurs are professional and courteous, and they will make sure everyone arrives safely at their destination. So if you're looking for the best limo service, check out Warner Robins Car Service.
 
-We have the confidence to offer exceptional transportation service to our clients. We give you the experience of VIP treatment like never before
+We have the confidence to offer exceptional transportation service to our clients. We give you the experience of VIP treatment like never before. We are your local trusted provider for Black Car, Stretch Limo, Party Bus, and chauffeur services for transportation to Atlanta and beyond.
