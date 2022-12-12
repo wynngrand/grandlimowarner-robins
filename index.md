@@ -6,7 +6,7 @@ cover: "/assets/img/macon suvs.webp"
 layout: home
 
 ---
-Warner Robins Limousine, Party Bus, and Luxury Black Car Service are available! 100% Certified Chauffeurs. With our state-of-the-art vehicles, we will ensure your safety during any occasion; whether for business or pleasure – you'll never have to worry about getting into an accident with us because our [Chauffeurs](https://www.grandlimowarner-robins.com/) are knowledgeable of the area.
+Warner Robins Limousine, Party Bus, and Luxury Black Car Service are available. 100% Certified Chauffeurs. With our state-of-the-art vehicles, we will ensure your safety during any occasion; whether for business or pleasure – you'll never have to worry about getting into an accident with us because our [Chauffeurs](https://www.grandlimowarner-robins.com/) are knowledgeable of the area.
 
 ## Warner Robins
 
