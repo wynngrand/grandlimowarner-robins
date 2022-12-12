@@ -3,8 +3,8 @@ layout: post
 navname: Chauffeur
 permalink: "/chauffeur.html"
 title: Warner Robins Chauffeur Service | Grand Limousine
-description: Chauffeur Service  | Luxury Black Car Service for Corporate , Business,
-  or Personal in Warner Robins. GA
+description: Chauffeur Service  | Car Service for Corporate , Business, or Personal
+  in Warner Robins. GA
 cover: "/assets/img/macon Sight Seeing Service.webp"
 
 ---
