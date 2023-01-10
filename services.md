@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Warner Robins Limousine
+title: Warner Robins Limo
 description: Warner Robins Car Service Airport Limousine | Accredited Limo & Luxury
   Car in Warner Robins, Ga. Best Limousine Rates Starting at $129.00 Book Instantly
   online.
